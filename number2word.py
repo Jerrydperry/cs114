@@ -40,4 +40,31 @@ elif ones == 2:
     ones_word = 'two'
 elif ones == 1:
     ones_word = 'one'
-    
+
+if ones == 1:
+    if tens == 1:
+        print('eleven')
+elif ones == 2:
+    if tens == 1:
+        print('twelve')
+elif ones == 3:
+    if tens == 1:
+        print('thirteen')
+elif ones == 4:
+    if tens == 1:
+        print('fourteen')
+elif ones == 5:
+    if tens == 1:
+        print('fivteen')
+elif ones == 6:
+    if tens == 1:
+        print('sixteen')
+elif ones == 7:
+    if tens == 1:
+        print('seventeen')
+elif ones == 8:
+    if tens == 1:
+        print('eighteen')
+elif ones == 9:
+    if tens == 1:
+        print('nineteen')
